@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Tuna/static/css/main.07fe03e3.css",
-    "main.js": "/Tuna/static/js/main.90116c52.js",
-    "static/js/453.0dec79d9.chunk.js": "/Tuna/static/js/453.0dec79d9.chunk.js",
-    "static/media/store.webp": "/Tuna/static/media/store.1c405998e4fd786650ec.webp",
-    "static/media/logout.png": "/Tuna/static/media/logout.d0374bb9108b41d82c0a.png",
-    "static/media/package.png": "/Tuna/static/media/package.11117233ab840fdd6c18.png",
-    "static/media/android.png": "/Tuna/static/media/android.89fe62949d3bc9befac2.png",
-    "static/media/apple.png": "/Tuna/static/media/apple.1511c3d419cb16aec154.png",
-    "static/media/trolley.png": "/Tuna/static/media/trolley.c2bff3bf9fc2d596ed05.png",
-    "index.html": "/Tuna/index.html",
-    "main.07fe03e3.css.map": "/Tuna/static/css/main.07fe03e3.css.map",
-    "main.90116c52.js.map": "/Tuna/static/js/main.90116c52.js.map",
-    "453.0dec79d9.chunk.js.map": "/Tuna/static/js/453.0dec79d9.chunk.js.map"
+    "main.css": "/Fabrik-Pizza/static/css/main.211106fc.css",
+    "main.js": "/Fabrik-Pizza/static/js/main.2ff5f4ff.js",
+    "static/js/453.616bdb6b.chunk.js": "/Fabrik-Pizza/static/js/453.616bdb6b.chunk.js",
+    "static/media/root.gif": "/Fabrik-Pizza/static/media/root.41b4ff90d83cf1646b6d.gif",
+    "static/media/store.jpg": "/Fabrik-Pizza/static/media/store.b2240d73d95392b6b9e0.jpg",
+    "static/media/logout.png": "/Fabrik-Pizza/static/media/logout.d0374bb9108b41d82c0a.png",
+    "static/media/package.png": "/Fabrik-Pizza/static/media/package.11117233ab840fdd6c18.png",
+    "static/media/android.png": "/Fabrik-Pizza/static/media/android.89fe62949d3bc9befac2.png",
+    "static/media/apple.png": "/Fabrik-Pizza/static/media/apple.1511c3d419cb16aec154.png",
+    "static/media/trolley.png": "/Fabrik-Pizza/static/media/trolley.c2bff3bf9fc2d596ed05.png",
+    "index.html": "/Fabrik-Pizza/index.html",
+    "main.211106fc.css.map": "/Fabrik-Pizza/static/css/main.211106fc.css.map",
+    "main.2ff5f4ff.js.map": "/Fabrik-Pizza/static/js/main.2ff5f4ff.js.map",
+    "453.616bdb6b.chunk.js.map": "/Fabrik-Pizza/static/js/453.616bdb6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07fe03e3.css",
-    "static/js/main.90116c52.js"
+    "static/css/main.211106fc.css",
+    "static/js/main.2ff5f4ff.js"
   ]
 }
