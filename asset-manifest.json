@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fabrik-Pizza/static/css/main.211106fc.css",
+    "main.css": "/Fabrik-Pizza/static/css/main.efd20743.css",
     "main.js": "/Fabrik-Pizza/static/js/main.2ff5f4ff.js",
     "static/js/453.616bdb6b.chunk.js": "/Fabrik-Pizza/static/js/453.616bdb6b.chunk.js",
     "static/media/root.gif": "/Fabrik-Pizza/static/media/root.41b4ff90d83cf1646b6d.gif",
@@ -11,12 +11,12 @@
     "static/media/apple.png": "/Fabrik-Pizza/static/media/apple.1511c3d419cb16aec154.png",
     "static/media/trolley.png": "/Fabrik-Pizza/static/media/trolley.c2bff3bf9fc2d596ed05.png",
     "index.html": "/Fabrik-Pizza/index.html",
-    "main.211106fc.css.map": "/Fabrik-Pizza/static/css/main.211106fc.css.map",
+    "main.efd20743.css.map": "/Fabrik-Pizza/static/css/main.efd20743.css.map",
     "main.2ff5f4ff.js.map": "/Fabrik-Pizza/static/js/main.2ff5f4ff.js.map",
     "453.616bdb6b.chunk.js.map": "/Fabrik-Pizza/static/js/453.616bdb6b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.211106fc.css",
+    "static/css/main.efd20743.css",
     "static/js/main.2ff5f4ff.js"
   ]
 }
